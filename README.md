@@ -1,5 +1,7 @@
 # mycode (Python Basics)
 
+Version control is important and will help with keeping everything up to date. This is a great thing to learn!
+
 The projects in this repository are for my education of the coding language Python. I am new to
 creating code so most of the projects will be pretty basic but maybe i can help you on your
 journey to learn a programing language. Best of luck in the crazy computer world friends!
